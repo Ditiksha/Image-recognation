@@ -1,0 +1,22 @@
+body {
+    color: white;
+    background-image: linear-gradient(to right top, #ff3eab, #ff94dd, #e969ff, #d045b2, #ce004c, #e4a0ff, #a86aff, #ff66ae);
+}
+
+
+.heading {
+    width: 80%;
+    font-size: 22px;
+}
+
+#webcam {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
+.name_of_objects,
+#result_object_name,
+#result_object_accuracy {
+    color: rgb(0, 0, 0);
+}
